@@ -15,7 +15,7 @@ device.name2=X01BDA
 device.name3=
 device.name4=
 device.name5=
-supported.versions=9 - 11
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
