@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=xxx Moonlight Kernel for Asus Zenfone Max Pro M2 / X01BD
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=X01BDA
 device.name3=
 device.name4=
 device.name5=
-supported.versions=
+supported.versions=9 - 11
 supported.patchlevels=
 '; } # end properties
 
